@@ -9,7 +9,7 @@ vetorteto:
 main:
     addi s6, zero, 4
     la s0, vetorparede
-    la s1, vetorchao
+    la s1, vetorchaovetorteto
     la s2, vetorteto
 looppedireito:
     lw s3, 0(s0)
